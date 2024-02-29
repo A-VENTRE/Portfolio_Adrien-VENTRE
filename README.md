@@ -1,11 +1,10 @@
 <h2 align="center">
-Portfolio Website - v1.0
+Portfolio site Web - v1.0
 </h2>
 <p>
-My Portfolio : 
-
-My personal portfolio https://lburdier.fr/ which features some of my github projects as well as my resume and technical skills.
-This project was built using these technologies.
+Mon Portefolio : 
+Mon portfolio personnel https://aventre.ovh/ qui présente certains de mes projets github ainsi que mon CV et mes compétences techniques. 
+Ce projet a été construit en utilisant ces technologies.
 <ul>
   <li>WordPress v6.4.2</li>
   <li>Elementor plugin</li>
