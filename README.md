@@ -1,6 +1,6 @@
-Projet : Portfolio Adrien VENTRE
+# Projet : Portfolio Adrien VENTRE
 
- 🎯 Présentation du Projet
+## 🎯 Présentation du Projet
 Ce projet a pour objectif de développer un **site web personnel** pour Adrien VENTRE, professionnel en cybersécurité et réseaux. Ce portfolio mettra en avant :
 
 - 🔧 Ses **compétences**  
