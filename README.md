@@ -76,9 +76,9 @@ Ce portfolio répond à un besoin essentiel : **centraliser les informations pro
 3. **Phase 3** : Tests de performance, sécurité et accessibilité.  
 4. **Phase 4** : Lancement officiel et suivi post-déploiement.
 
-## 📞 Contact
-Pour toute question ou suggestion, contactez-moi via :  
-🌐 [Site Web : aventre.ovh](https://aventre.ovh)  
+## 🌐 Liens Utiles
+Pour découvrir le portfolio et en savoir plus :  
+🌐 [Site Web : aventre.ovh](https://aventre.ovh)
 
 ## 🔧 Versions Utilisées
 - **WordPress v6.4.2**
