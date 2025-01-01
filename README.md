@@ -9,8 +9,6 @@ Ce projet a pour objectif de développer un **site web personnel** pour Adrien V
 
 Le site, conçu comme une **carte de visite numérique**, permettra aux recruteurs, collaborateurs et partenaires de découvrir son expertise et ses projets tout en facilitant les échanges via une section dédiée au contact.
 
----
-
 ## 🌟 Objectifs du Site
 1. **Présenter les Compétences** :  
    🎓 Expertise en cybersécurité et administration réseau.
@@ -20,8 +18,6 @@ Le site, conçu comme une **carte de visite numérique**, permettra aux recruteu
    📚 Articles techniques et tutoriels pour démontrer l’expertise.
 4. **Faciliter les Échanges** :  
    ✉️ Formulaire de contact sécurisé et accessible.
-
----
 
 ## 🗂️ Structure Initiale du Site
 
@@ -53,8 +49,6 @@ Le site, conçu comme une **carte de visite numérique**, permettra aux recruteu
 - 📞 Coordonnées directes  
 - 📌 Liens vers les réseaux sociaux professionnels  
 
----
-
 ## 🛠️ Technologies Utilisées
 - **Plateforme** : WordPress 🖥️  
 - **Hébergement** : OVH 🌐  
@@ -64,8 +58,6 @@ Le site, conçu comme une **carte de visite numérique**, permettra aux recruteu
   - WP Rocket ⚡ (Optimisation des performances)  
   - Wordfence 🔐 (Sécurité et protection)
 
----
-
 ## 🔒 Sécurité
 La **sécurité** est une priorité pour ce projet. Voici les mesures mises en place :
 
@@ -74,13 +66,9 @@ La **sécurité** est une priorité pour ce projet. Voici les mesures mises en p
 - ✅ Sauvegardes automatiques régulières.  
 - ✅ Limitation des tentatives de connexion pour prévenir les attaques par force brute.
 
----
-
 ## 🤔 Pourquoi ce Projet ?
 Ce portfolio répond à un besoin essentiel : **centraliser les informations professionnelles et techniques** dans un espace unique.  
 🎯 **Objectif principal** : Créer un site évolutif qui reflète les compétences et réalisations d'Adrien VENTRE.
-
----
 
 ## 🚀 Étapes de Développement
 1. **Phase 1** : Analyse des besoins et conception de la structure.  
@@ -88,13 +76,9 @@ Ce portfolio répond à un besoin essentiel : **centraliser les informations pro
 3. **Phase 3** : Tests de performance, sécurité et accessibilité.  
 4. **Phase 4** : Lancement officiel et suivi post-déploiement.
 
----
-
 ## 📞 Contact
 Pour toute question ou suggestion, contactez-moi via :  
 🌐 [Site Web : aventre.ovh](https://aventre.ovh)  
-
----
 
 ## 🔧 Versions Utilisées
 - **WordPress v6.4.2**
